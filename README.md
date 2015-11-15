@@ -1,5 +1,7 @@
 # API Rest utilizando o micro framework Expressive.
 
+Esta API foi construída para estudo do micro-framework Expressive e middleware, abaixo segue links para acesso ao framework e a um skeletom.
+
 Link para acesso ao framework [zendframework/zend-expressive](https://github.com/zendframework/zend-expressive).
 
 Link para acesso ao skeleton [zendframework/zend-expressive-skeleton](https://github.com/zendframework/zend-expressive-skeleton)
