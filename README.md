@@ -36,8 +36,6 @@ $dbParams = [
 php -S localhost:8080
 ```
 
-***Necessário PHP  >=5.5***
-
 ## Rotas
 ```php
 listar produtos | Method: (GET)
