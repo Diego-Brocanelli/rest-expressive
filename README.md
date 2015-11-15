@@ -31,6 +31,12 @@ $dbParams = [
     'dbname'   => 'rest_expressive',
 ];
 ```
+## Iniciar o sistema com o servidor embutido do PHP
+```
+php -S localhost:8080
+```
+
+***Necessário PHP  >=5.5***
 
 ## Rotas
 ```php
